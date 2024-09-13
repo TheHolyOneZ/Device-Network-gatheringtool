@@ -1,6 +1,7 @@
 # Device-Network-gatheringtool
 gathers information of the connected network can be used in schools or organization networks 
 
+# will release the gathering tool soon 
 
 will be uploading trolls here aswell 
 
